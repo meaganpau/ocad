@@ -1,0 +1,69 @@
+body {
+	background-image: url("http://pichdwallpaper.com/wp-content/uploads/2014/12/Orange_Box_Background_Vector-1920x1344.jpg");
+	color: white;
+}
+
+header	{
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-family: tahoma, arial;
+}
+
+.welcome p {
+	text-align: center;
+	font-family: tahoma, arial;
+}
+
+#TallPics {
+	background-color: #f18e01;
+	width: 200px;
+	height: 300px;
+	margin: 5px;
+	border: 5px #ff5060;
+	border-style: dotted solid double dashed;
+	padding: 100px;
+}
+
+#TallPics img {
+	width: 50px;
+	height: 200px;
+	margin: 5px;
+}
+
+#WidePics {
+	background-color: rgb(0,123,45);;
+	width: 60%;
+	height: 200px;
+	border: 5px groove #ff5060;
+	margin: 30px 120px 50px 100px;
+}
+
+#WidePics img {
+	height: 50px;
+	width: 200px;
+	margin: 2%;
+}
+
+footer {
+	color: purple;
+}
+
+h2 {
+	letter-spacing: 2px;
+	line-height: 2;
+	font-size: 2em;
+	color: #02e470;
+}
+
+#text p {
+	background-color: #283e81;
+	font-size: 4em;
+	font-family: Verdana;
+	color: white;
+	letter-spacing: 40px;
+	line-height: 8;
+}
+
